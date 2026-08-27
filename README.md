@@ -25,4 +25,4 @@ Currently working through data structures and algorithms in Python, and building
 
 ### Reach me
 
-[LinkedIn](https://linkedin.com/in/ahmad-mujtaba0)
+[LinkedIn](https://linkedin.com/in/ahmadmujtaba0)
