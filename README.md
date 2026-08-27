@@ -19,7 +19,7 @@ Currently working through data structures and algorithms in Python, and building
 | | |
 | --- | --- |
 | Frontend | React, Next.js, TypeScript, Tailwind CSS, HTML, CSS |
-| Backend | Node.js, Express, MongoDB, Python |
+| Backend | Node.js, FastAPI, MongoDB, PostgreSQL, Python |
 | AI | OpenAI Agents SDK, Chainlit |
 | Tooling | Git, uv, Vite, Vercel |
 
