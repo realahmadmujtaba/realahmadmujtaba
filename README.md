@@ -1,16 +1,28 @@
-## Hi there 👋
+## Ahmad Mujtaba
 
-<!--
-**realahmadmujtaba/realahmadmujtaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer in Lahore, Pakistan. I build web apps with Next.js and the MERN stack, and AI agents with the OpenAI Agents SDK.
 
-Here are some ideas to get you started:
+Currently working through data structures and algorithms in Python, and building agent tooling with Chainlit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm building
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [portfolio](https://github.com/realahmadmujtaba/portfolio) | My personal site, live on Vercel | Next.js, TypeScript, Tailwind |
+| [sportbuddy-ai-agent](https://github.com/realahmadmujtaba/sportbuddy-ai-agent) | Agent that helps you find people to play sport with | Python, OpenAI Agents SDK |
+| [openai-agents-chatbot](https://github.com/realahmadmujtaba/openai-agents-chatbot) | Chatbot with streaming, history, profiles and tool calling | Python, Chainlit |
+| [ai-internship-tasks](https://github.com/realahmadmujtaba/ai-internship-tasks) | ML coursework: BERT, pipelines, multimodal models | Python, Jupyter |
+| [dsa-solutions](https://github.com/realahmadmujtaba/dsa-solutions) | Algorithms practice, organised by topic | Python, SQL |
+
+### Tools I work with
+
+| | |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, Tailwind CSS, HTML, CSS |
+| Backend | Node.js, Express, MongoDB, Python |
+| AI | OpenAI Agents SDK, Chainlit |
+| Tooling | Git, uv, Vite, Vercel |
+
+### Reach me
+
+[LinkedIn](https://linkedin.com/in/ahmad-mujtaba0)
