@@ -1,6 +1,6 @@
 ## Ahmad Mujtaba
 
-Full-stack developer in Lahore, Pakistan. I build web apps with Next.js, the MERN stack, and FastAPI backed by SQL/NoSQL databases, and AI agents with the OpenAI Agents SDK, Chainlit, and Claude Code.
+Full-stack developer in Lahore, Pakistan. I build web apps with Next.js and the MERN stack, backend services with Python and FastAPI on SQL/NoSQL databases, and AI agents with the OpenAI Agents SDK, Chainlit, and Claude Code.
 
 Currently working through data structures and algorithms in Python, and machine learning fundamentals — classifiers, pipelines, multimodal models.
 
